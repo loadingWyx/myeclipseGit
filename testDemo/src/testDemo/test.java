@@ -4,7 +4,7 @@ import redis.clients.jedis.Jedis;
 
 public class test {
 	
-	//111111111111111111111
+	//111111111111111111111222222
   public static void main(String[] args) {
       //连接本地的 Redis 服务  sdfsfsasfsa
       Jedis jedis = new Jedis("localhost");

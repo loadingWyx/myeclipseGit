@@ -11,7 +11,7 @@ public class test {
       ///alsjdfla
       System.out.println("连接成功");
       //设置 redis 字符串数据
-      jedis.set("runoobkey", "www.runoob.com");
+      jedis.set("runoobkey", "www.runoob.com111111111");
       // 获取存储的数据并输出  asfdasfsa
       System.out.println("redis 存储的字符串为: "+ jedis.get("runoobkey"));
   }

@@ -7,7 +7,7 @@ public class test {
 	//111111111111111111111222222
   public static void main(String[] args) {
       //连接本地的 Redis 服务  sdfsfsasfsa
-      Jedis jedis = new Jedis("localhost");/////-------------12311118881
+      Jedis jedis = new Jedis("localhost");/////-------------12311118889
       ///alsjdfla
       System.out.println("连接成功");
       //设置 redis 字符串数据
